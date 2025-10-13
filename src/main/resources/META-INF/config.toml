@@ -1,0 +1,10 @@
+# SoulBoundHearts configuration defaults.
+[general]
+    # Multiplier applied to max health after death. Values lower than 1 reduce health.
+    healthReductionMultiplier = 0.5
+
+    # Minimum amount of health (HP) a player can reach.
+    minHealthCap = 2.0
+
+    # Maximum amount of health (HP) a player can reach.
+    maxHealthCap = 50.0

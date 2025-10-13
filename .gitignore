@@ -1,0 +1,38 @@
+# Gradle files
+.gradle/
+build/
+
+# Eclipse/IntelliJ IDEA project files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# Run configurations
+run/
+
+# Maven/other build outputs
+target/
+
+# Logs and crash reports
+logs/
+*.log
+crash-reports/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# User-specific configuration
+*.local
+
+# Java binary artifacts
+*.class
+*.jar
