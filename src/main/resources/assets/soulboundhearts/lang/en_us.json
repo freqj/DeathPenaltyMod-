@@ -1,0 +1,6 @@
+{
+  "item.soulboundhearts.golden_heart": "Golden Heart",
+  "item.soulboundhearts.golden_heart.tooltip": "+2 HP to maximum health (1 heart).",
+  "item.soulboundhearts.golden_heart.tooltip.cap": "Cannot exceed %s HP of maximum health.",
+  "message.soulboundhearts.max_health_reached": "You have already reached the maximum number of hearts!"
+}

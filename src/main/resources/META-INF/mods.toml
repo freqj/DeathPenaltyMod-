@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="soulboundhearts"
+version="${file.jarVersion}"
+displayName="SoulBoundHearts"
+description='''
+SoulBoundHearts keeps your inventory on death and ties your hearts to your soul.
+'''
+
+[[dependencies.soulboundhearts]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.soulboundhearts]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1]"
+ordering="NONE"
+side="BOTH"

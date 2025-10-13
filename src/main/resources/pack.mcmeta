@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "SoulBoundHearts resources",
+    "pack_format": 15,
+    "supported_formats": {
+      "minecraft:client": 18,
+      "minecraft:server": 18
+    }
+  }
+}
